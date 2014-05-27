@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Root Explorer</string>
+    <string name="root_explorer_ad">"
+This is a protected folder that is not accessible with standard file managers on unrooted phones. 
+
+However, if your phone is rooted it can be accessed using our privileged mode file manager which is called Root Explorer. 
+
+Please click on the button below to view Root Explorer in the market."</string>
+    <string name="data_folder_desc">The data folder contains data stored by system and third-party apps as well as the installed apps themselves.</string>
+    <string name="no_root_message_data">"Your phone doesn't appear to be rooted. This is required in order to gain access to protected files and folders such as this. 
+
+The easiest way to find out how to root your phone is to Google \"root your_phone_name\" and look through the results for an appropriate tutorial."</string>
+    <string name="no_root_message_system">"Your phone doesn't appear to be rooted. This is required in order to change or delete protected files such as this. 
+
+The easiest way to find out how to root your phone is to Google \"root your_phone_name\" and look through the results for an appropriate tutorial."</string>
+    <string name="sqlite_advert">"This is a SQLite database. You can go ahead and view the database using the built in DB viewer.
+
+However, if you would like to edit the database contents and perform more advanced functions such as record filtering then you could try our new SQLite Editor which is now available from the market."</string>
+    <string name="dont_ask_again">"Don't show this again"</string>
+    <string name="classes_dex">classes.dex</string>
+    <string name="beta_expired">beta versiyon bitti.</string>
+    <string name="beta_expires_1day">Beta expires in 1 day.</string>
+    <string name="beta_expires_2days">Beta expires in 2 days.</string>
+    <string name="open_with_help">"
+The three tabs next to Help contain actions which can be performed on this file.
+
+The Internal tab contains internal Root Explorer functions such as Text Viewer, SQLite Database Viewer and Zip Viewer.
+ 
+The Generic tab allows you to open the file as a generic type such as Text, Music, Audio or Image.
+
+The Apps tab allows you to select a specific app with which to open the file.
+ 
+Just click on one of these tabs and select the action you wish to use.
+ 
+At the bottom of each list is a check box. Make sure this box is ticked if you want to make this the default action for the file type."</string>
+</resources>
