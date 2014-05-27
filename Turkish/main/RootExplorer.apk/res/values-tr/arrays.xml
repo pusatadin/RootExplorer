@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="view_mode_titles">
+        <item>Basit Liste</item>
+        <item>Detaylı Liste</item>
+        <item>İkonlar</item>
+    </string-array>
+    <string-array name="view_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="sort_order_titles">
+        <item>İsim</item>
+        <item>Tarih</item>
+        <item>Boyut</item>
+        <item>Tür</item>
+        <item>İsim (ters)</item>
+        <item>Tarih (ters)</item>
+        <item>Boyut (ters)</item>
+    </string-array>
+    <string-array name="sort_order_values">
+        <item>name_asc</item>
+        <item>date_asc</item>
+        <item>size_asc</item>
+        <item>type_asc</item>
+        <item>name_desc</item>
+        <item>date_desc</item>
+        <item>size_desc</item>
+    </string-array>
+    <string-array name="info_mode_titles">
+        <item>Kullanılan Alan/Boş Alan</item>
+        <item>System Dosya İsimlerini Göster</item>
+    </string-array>
+    <string-array name="info_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
